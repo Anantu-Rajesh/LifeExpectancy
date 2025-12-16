@@ -161,17 +161,4 @@ jupyter notebook notebook/lifeExpectancy.ipynb
 - Deploy model as a web application
 - Include time-series forecasting for future predictions
 
-## Author
-
-**Anantu Rajesh**
-
-## License
-
-This project is open source and available for educational purposes.
-
-## Acknowledgments
-
-- World Health Organization (WHO) for providing the dataset
-- Kaggle for hosting the dataset
-
 ---
